@@ -40,13 +40,6 @@ CREATE TABLE `komputerowy` (
 -- Zrzut danych tabeli `komputerowy`
 --
 
-INSERT INTO `komputerowy` (`id_komputerowy`, `nazwaSklepu`, `kodPocztowy`, `liczbaPracownikow`, `adres`, `numTowar`) VALUES
-(2, 'dfsaf', 423423, 666, 'htfhtfh', 65),
-(3, 'fesfs', 53, 543, 'gdgdg', 534),
-(4, 'asda', 432, 3232, 'erw', 423),
-(5, 'dwadw', 24343, 2432, 'dadsad', 544),
-(6, '', 0, 0, '', 0),
-(7, 'chuj', 2037, 666, 'pieklo6', 18);
 
 -- --------------------------------------------------------
 
@@ -67,9 +60,6 @@ CREATE TABLE `sportowy` (
 -- Zrzut danych tabeli `sportowy`
 --
 
-INSERT INTO `sportowy` (`id_sportowy`, `nazwaSklepu`, `kodPocztowy`, `liczbaPracownikow`, `adres`, `numTowar`) VALUES
-(1, '', 0, 0, '', 0),
-(2, 'vxvxv', 34242, 4324, 'dwaw', 243);
 
 -- --------------------------------------------------------
 
@@ -90,10 +80,6 @@ CREATE TABLE `spozywczak` (
 -- Zrzut danych tabeli `spozywczak`
 --
 
-INSERT INTO `spozywczak` (`id_spozywczak`, `nazwaSklepu`, `kodPocztowy`, `liczbaPracownikow`, `adres`, `numTowar`) VALUES
-(1, '', 0, 0, '', 0),
-(2, 'dawdw', 42, 432, 'wqaewad', 432),
-(3, 'sczc', 423, 342, 'fesfs', 42);
 
 -- --------------------------------------------------------
 
@@ -114,9 +100,7 @@ CREATE TABLE `zabawkowy` (
 -- Zrzut danych tabeli `zabawkowy`
 --
 
-INSERT INTO `zabawkowy` (`id_zabawkowy`, `nazwaSklepu`, `kodPocztowy`, `liczbaPracownikow`, `adres`, `numTowar`) VALUES
-(2, '', 0, 0, '', 0),
-(3, 'dsada', 423, 342, 'ewqe', 423);
+
 
 --
 -- Indeksy dla zrzutów tabel
