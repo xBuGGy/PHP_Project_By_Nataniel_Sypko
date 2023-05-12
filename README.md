@@ -14,7 +14,7 @@
 
 #### W celu uruchomienia strony, należy skonfigurować serwer Apache i bazę danych MySQL, a następnie umieścić pliki aplikacji w odpowiednim katalogu serwera.
 
-## Dodane w przyszłości:
+## W przyszłości:
 - rejestracja i logowanie na stronie wraz z panelem sterowania, który pokazuje w jakim stopniu rekrutacji jest twój sklep
 - poprawne umieszczenie obrazków na stronie głównej
 - lepszy design + ładniejsza lista
